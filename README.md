@@ -23,3 +23,5 @@ Then the excel was joined to Tableau Public for creating Final EXECUTIVE DASHBOA
 ![Final Query - Sample Data Output](https://user-images.githubusercontent.com/123267703/216179741-d465e463-f9bf-4278-abed-35f3b1662b70.jpg)
 
 ![Dashboard 1](https://user-images.githubusercontent.com/123267703/216179810-dbf259ac-a23c-4c8c-9e80-a0e139bcadb6.png)
+
+![Excel Dashboard](https://user-images.githubusercontent.com/123267703/216184267-1e2d6627-e817-4210-9039-26e31cdde6d7.jpg)
